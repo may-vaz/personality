@@ -15,13 +15,4 @@ This is a simple machine learning project that classifies a person as an **Intro
 ## Model Used
 
 - **Decision Tree Classifier** (scikit-learn)
-- Trained with above features and saved using `pickle`.
-
-## How to Use
-
-### 1. Train the Model (Optional if already trained)
-Run the Python script to:
-- Load or create the dataset
-- Encode categorical values
-- Train a Decision Tree model
-- Save the model (`personality_model.pkl`) and label encoder (`label_encoder.pkl`)
+- Trained with above features and saved using `pickle`
